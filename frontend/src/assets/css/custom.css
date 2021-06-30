@@ -6,11 +6,25 @@
 }
 
 body {
-    background-color: rgb(220,220,220);
     width: 100vw;
     height: 100vh;
 }
 
 .gothic {
     font-family: 'Dela Gothic One', cursive;
+}
+
+
+.show {
+    background-color: rgb(141, 238, 173);
+}
+
+footer {
+    border-top: rgb(70, 130, 180) 2px solid;
+
+}
+
+.relatorio {
+    text-align: center;
+    border-bottom: darkblue solid 1px;
 }
